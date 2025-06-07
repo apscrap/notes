@@ -1,7 +1,6 @@
 # Новая жизнь
 
-
-![Screenshot](https://github.com/apscrap/data-01/tree/main/common/pic/abyss_logo.jpg)
+![Screenshot](https://github.com/apscrap/data-01/blob/main/common/pic/abyss_logo.jpg)
 
 Все платформы для ведения лампового текстового бложика превратились в кромешный ад. Продолжать ими пользоваться просто невозможно в координатах моей системы ценностей. И тут надо либо крестик снять, либо трусы надеть. Я сделал добровольный и осознанный выбор в пользу трусов.
 
@@ -20,4 +19,4 @@
 - [x] походная романтика
 - [x] жизнь без бороды
 
-P.S. Ежели что, пишите письма в [спортлото](https://github.com/apscrap/data-01/tree/main/2025-06-06-new-life/pic/mail.png).
+P.S. Ежели что, пишите письма в [спортлото](https://github.com/apscrap/data-01/blob/main/2025-06-06-new-life/pic/mail.png).
