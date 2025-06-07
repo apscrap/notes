@@ -20,10 +20,6 @@
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_2.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_geometry_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_geometry.jpg)
 
-Из дополнительной литературы я рекомендую переводное издание классического школьного учебника **Эдвина Моиза** и **Флойда Даунса** «[Геометрия](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/moise_downs_geometry.7z)» (Edwin E. Moise, Floyd L. Downs Jr. «Geometry») под редакцией академика **И. М. Яглома**.
-
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/moise_downs_geometry_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/moise_downs_geometry.jpg)
-
 ## Подготовка к поступлению в институт
 
 Неоценимую помощь при поступлении окажет «[Краткое пособие по математике для поступающих в Московский университет](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное **М. К. Потатоповым**, **Н. Х. Розовым** и **Г. В. Дорофеевым**.
