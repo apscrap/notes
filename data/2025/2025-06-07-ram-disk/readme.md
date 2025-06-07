@@ -42,7 +42,7 @@
 > При скачивании файла из альтернативных источников проверяйте оригинальную цифровую подпись и контрольную сумму `SHA-256` установочного файла `Radeon_RAMDisk_4_4_0_RC36.msi`: `D792733F0EBC8C30D7F6778C9F0276CD5FBDE7419212D0B338744B0311D38970`.
 
 > [!TIP]
-> Вычислить контрольную сумму `SHA-256` можно с помощью бесплатного hex-редактора [HxD](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/hxd_2.5.0.7z) в меню `Analysis` -> `Checksums` -> `SHA-256`).
+> Вычислить контрольную сумму `SHA-256` можно с помощью бесплатного hex-редактора [HxD](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/hxd_2.5.0.7z) в меню `Analysis` -> `Checksums` -> `SHA-256`.
 > 
 > [Сайт разработчика](https://mh-nexus.de/en/hxd/) утилиты HxD.
 
