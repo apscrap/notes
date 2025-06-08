@@ -43,3 +43,8 @@
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/zeldovich_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/zeldovich.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/yaglom_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/yaglom.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/zeldovich_yaglom_math_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/zeldovich_yaglom_math.jpg)
+
+Классический задачник **Бориса Павловича Демидовича** «[Задачи и упражнения по математическому анализу](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/demidovich_calculus.7z)» прекрасно подойдет для закрепления курса высшей математики.
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus.jpg)
