@@ -59,3 +59,7 @@
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_1.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_2.jpg)
+
+И в завершение своей подборки хотелось бы также отметить «[Курс высшей математики](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/shipachev_math.7z)» **Виктора Семеновича Шипачёва**, поскольку автор удивительно простым языком умеет описывать довольно сложные категории. Я бы рекомендовал данный учебник тем, кому высшая математика пока даётся сложновато.
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/shipachev_math_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/shipachev_math.jpg)
