@@ -27,7 +27,7 @@
 
 ## Подготовка к поступлению в институт
 
-Неоценимую помощь при поступлении окажет «[Краткое пособие по математике для поступающих в Московский университет](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное **М. К. Потаповым**, **Н. Х. Розовым** и **Г. В. Дорофеевым**. Необходимо указать также, что в пособии для каждого рассматриваемого раздела имеется исчерпывающий список рекомендованной дополнительной литературы.
+Неоценимую помощь при подготовке к поступлению окажет «[Краткое пособие по математике для поступающих в Московский университет](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное **М. К. Потаповым**, **Н. Х. Розовым** и **Г. В. Дорофеевым**. Необходимо указать также, что в пособии для каждого рассматриваемого раздела имеется исчерпывающий список рекомендованной дополнительной литературы.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_rozov_dorofeev_math_mgu_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_rozov_dorofeev_math_mgu.jpg)
