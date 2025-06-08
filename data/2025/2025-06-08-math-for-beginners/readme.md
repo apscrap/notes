@@ -13,7 +13,7 @@
 
 ## Школьная программа
 
-Для успешного освоения школьной программы советую обратить внимание на классические издания выдающегося русского педагога **Андрея Петровича Киселёва**: «[Алгебра, часть I](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_1.7z)», «[Алгебра, часть II](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_2.7z)», «[Элементарная геометрия](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_geometry.7z)».
+Для успешного освоения школьной программы советую обратить внимание на классические издания за авторством выдающегося русского педагога **Андрея Петровича Киселёва**: «[Алгебра, часть I](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_1.7z)», «[Алгебра, часть II](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_2.7z)», «[Элементарная геометрия](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_geometry.7z)».
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_1.jpg)
