@@ -1,3 +1,3 @@
 Выбранный тег:
 
-![Screenshot](../tag_linux.png)
+![Screenshot](tag_linux.png)

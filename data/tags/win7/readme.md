@@ -1,6 +1,6 @@
 Выбранный тег:
 
-![Screenshot](../tag_win7.png)
+![Screenshot](tag_win7.png)
 
 `2025`
 

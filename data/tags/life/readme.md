@@ -1,6 +1,6 @@
 Выбранный тег:
 
-![Screenshot](../tag_life.png)
+![Screenshot](tag_life.png)
 
 `2025`
 
