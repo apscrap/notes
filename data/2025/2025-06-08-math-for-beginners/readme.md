@@ -51,8 +51,11 @@
 
 ## Дополнительная литература
 
-Классический учебник **Григория Михайловича Фихтенгольца** «Основы математического анализа» в формате многотомного архива: [часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.001), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.002), [часть 3](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.003).
+Замечательные учебники **Григория Михайловича Фихтенгольца** «Основы математического анализа» ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.001), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.002), [часть 3](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.003)) и «Математика для инженеров» ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_eng.7z.001), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_eng.7z.002), [часть 3](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_eng.7z.003)) также заслуживают самой высокой оценки.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_1.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_2.jpg)
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_1.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_2.jpg)
