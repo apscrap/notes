@@ -1,6 +1,7 @@
 # Лучшие книги по математике
 
 [![Screenshot](../../../data/tags/math/tag_math.png)](../../../data/tags/math)
+[![Screenshot](../../../data/tags/education/tag_education.png)](../../../data/tags/education)
 [![Screenshot](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
 -----
 
