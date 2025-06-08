@@ -48,3 +48,11 @@
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus.jpg)
+
+## Дополнительная литература
+
+Классический учебник **Григория Михайловича Фихтенгольца** «Основы математического анализа» в формате многотомного архива: [часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.001), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.002), [часть 3](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.003).
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_1.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_calculus_2.jpg)
