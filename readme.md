@@ -4,7 +4,7 @@
 [![Screenshot](data/tags/linux/tag_linux.png)](data/tags/linux)
 [![Screenshot](data/tags/math/tag_math.png)](data/tags/math)
 [![Screenshot](data/tags/good/tag_good.png)](data/tags/good)
-[![Screenshot](data/tags/good/tag_education.png)](data/tags/education)
+[![Screenshot](data/tags/education/tag_education.png)](data/tags/education)
 [![Screenshot](data/tags/life/tag_life.png)](data/tags/life)
 ----
 
