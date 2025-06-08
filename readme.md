@@ -1,10 +1,10 @@
 # Хроники бездны
 
-[![Screenshot](data/tags/tag_win7.png)](data/tags/win7)
-[![Screenshot](data/tags/tag_linux.png)](data/tags/linux)
-[![Screenshot](data/tags/tag_math.png)](data/tags/math)
-[![Screenshot](data/tags/tag_good.png)](data/tags/good)
-[![Screenshot](data/tags/tag_life.png)](data/tags/life)
+[![Screenshot](data/tags/win7/tag_win7.png)](data/tags/win7)
+[![Screenshot](data/tags/linux/tag_linux.png)](data/tags/linux)
+[![Screenshot](data/tags/math/tag_math.png)](data/tags/math)
+[![Screenshot](data/tags/good/tag_good.png)](data/tags/good)
+[![Screenshot](data/tags/life/tag_life.png)](data/tags/life)
 ----
 
 `2025`
