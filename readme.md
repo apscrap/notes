@@ -1,5 +1,12 @@
 # Хроники бездны
 
+### Теги
+
+[![Screenshot](data/tags/tag_win7.png)](data/tags/win7)
+[![Screenshot](data/tags/tag_math.png)](data/tags/math)
+[![Screenshot](data/tags/tag_life.png)](data/tags/life)
+
+
 `2025`
 
 &emsp;  &emsp; `2025-06-08` &emsp; [Лучшие книги по математике](data/2025/2025-06-08-math-for-beginners) 
