@@ -7,7 +7,7 @@
 
 Общие шаги, которые обычно предпринимает каждый опытный пользователь:
 
-**1.** Использование специальных утилит для настройки использования SSD, таких как [SSD Mini Tweaker](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/ssd_mini_tweaker_2.5.7z).
+**1.** Применение специальных утилит для настройки SSD, таких как [SSD Mini Tweaker](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/ssd_mini_tweaker_2.5.7z).
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/ssd_mini_tweaker_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/ssd_mini_tweaker.png)
 
