@@ -1,4 +1,4 @@
-# Хроники бездны
+# log.txt > /dev/null
 
 [![Screenshot](data/tags/win7/tag_win7.png)](data/tags/win7)
 [![Screenshot](data/tags/linux/tag_linux.png)](data/tags/linux)
