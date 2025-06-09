@@ -73,7 +73,7 @@
 
 Ну и нельзя обойти вниманием мобильные платформы.
 
-На мой взгляд, лучше программы для чтения документов под ведроидом, чем великолепная [ReadEra](https://readera.org/ru), попросту нет. В комплекте скорость работы, всеядность, удобный интерфейс и удобная регулировка яркости.
+На мой взгляд, лучше программы для чтения документов под ведроидом, чем великолепная [ReadEra](https://readera.org/ru), попросту нет. В комплекте скорость работы, всеядность, продуманный интерфейс и удобная регулировка яркости.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark.png)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings.png)
