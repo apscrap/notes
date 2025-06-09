@@ -18,16 +18,25 @@
 
 ## Школьная программа
 
-Для успешного освоения школьной программы советую обратить внимание на классические издания за авторством гениального русского педагога **Андрея Петровича Киселёва**: «[Алгебра, часть I](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_1.7z)», «[Алгебра, часть II](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_2.7z)», «[Элементарная геометрия](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_geometry.7z)». На замечательных книгах автора, прошедших проверку временем и выдержавших десятки переизданий, выросло не одно поколение российских и советских школьников. Множество учёных и педагогов с мировыми именами отмечают, что отказ от учебников Кисёлева во второй половине двадцатого века был одной из самых значимых ошибок в советской системе школьного образования.
+Для успешного освоения школьной программы советую обратить внимание на классические издания за авторством гениального русского педагога **Андрея Петровича Киселёва**: «[Алгебра, часть I](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_1.7z)», «[Алгебра, часть II](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_2.7z)», «[Элементарная геометрия](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_geometry.7z)».
+
+На замечательных книгах автора, прошедших проверку временем и выдержавших десятки переизданий, выросло не одно поколение российских и советских школьников. Множество учёных и педагогов с мировыми именами отмечают, что отказ от учебников Кисёлева во второй половине двадцатого века был одной из самых значимых ошибок в советской системе школьного образования.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_1.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_2.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_geometry_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_geometry.jpg)
 
+Поскольку в годы издания указанных книг в школьную программу еще не входили начала математического анализа, следует знать о наличии отдельных учебников по данной теме: «Элементы алгебры и анализа» ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_calculus_1.7z), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_calculus_2.7z)). Кроме того, имеется и специальный задачник «[Задачи и упражнения к „Элементам алгебры“](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_problems.7z)».
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_1.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_2.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_problems_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_problems.jpg)
+
+
 ## Подготовка к поступлению в институт
 
-Неоценимую помощь при подготовке к поступлению окажет «[Краткое пособие по математике для поступающих в Московский университет](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное **М. К. Потаповым**, **Н. Х. Розовым** и **Г. В. Дорофеевым**. Необходимо указать также, что в пособии для каждого рассматриваемого раздела имеется исчерпывающий список рекомендованной дополнительной литературы.
+Неоценимую помощь при подготовке к поступлению окажет «[Краткое пособие по математике для поступающих в Московский университет](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное под руководством **М. К. Потапова**. Необходимо указать также, что в пособии для каждого рассматриваемого раздела имеется исчерпывающий список рекомендованной дополнительной литературы.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_rozov_dorofeev_math_mgu_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_rozov_dorofeev_math_mgu.jpg)
