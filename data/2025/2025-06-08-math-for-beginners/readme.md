@@ -20,18 +20,18 @@
 
 Для успешного освоения школьной программы советую обратить внимание на классические издания за авторством гениального русского педагога **Андрея Петровича Киселёва**: «[Алгебра, часть I](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_1.7z)», «[Алгебра, часть II](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_algebra_2.7z)», «[Элементарная геометрия](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_geometry.7z)».
 
-На замечательных книгах автора, прошедших проверку временем и выдержавших десятки переизданий, выросло не одно поколение российских и советских школьников. Множество учёных и педагогов с мировыми именами отмечают, что отказ от учебников Кисёлева во второй половине двадцатого века был одной из самых значимых ошибок в советской системе школьного образования.
-
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_1.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_algebra_2.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_geometry_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_geometry.jpg)
 
-Поскольку в годы издания указанных книг в школьную программу еще не входили начала математического анализа, следует знать о наличии отдельных учебников по данной теме: «Элементы алгебры и анализа» ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_calculus_1.7z), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_calculus_2.7z)). Кроме того, имеется и специальный задачник «[Задачи и упражнения к „Элементам алгебры“](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_problems.7z)».
+Поскольку в годы издания указанных книг в школьную программу еще не входили начала математического анализа, для их изучения следует обратиться к следующим материалам: «Элементы алгебры и анализа» ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_calculus_1.7z), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_calculus_2.7z)). Кроме того, имеется и специальный задачник «[Задачи и упражнения к „Элементам алгебры“](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/kiselev_problems.7z)».
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_1.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_2.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_problems_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_problems.jpg)
+
+На этих замечательных книгах, прошедших проверку временем и выдержавших десятки переизданий, выросло не одно поколение российских и советских школьников. Множество учёных и педагогов с мировыми именами сходятся во мнении, что отказ министерских чиновников от учебников Кисёлева из-за их якобы «устаревания» был тяжелейшим ударом по советской системе школьного образования.
 
 ## Подготовка к поступлению в институт
 
