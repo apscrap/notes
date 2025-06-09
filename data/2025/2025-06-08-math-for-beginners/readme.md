@@ -11,7 +11,7 @@
 
 ## Как читать книги для самообразования
 
-Прежде всего, когда речь заходит о самообразовании как о технологии, нельзя не упомянуть великолепную книгу известного русского философа и логика **Сергея Иннокентьевича Поварнина** «[Как читать книги для самообразования](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/povarnin_reading_books.7z)». Время, уделённое на её вдумчивое прочтение, окупится сотни раз, ведь в ней описаны непреложные истины на все времена.
+Прежде всего, когда речь заходит о самообразовании как о технологии, нельзя не упомянуть великолепную книгу известного русского философа и логика **Сергея Иннокентьевича Поварнина** «[Как читать книги для самообразования](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/povarnin_reading_books.7z)». Время, уделённое на её вдумчивое прочтение, окупится сотни раз, ведь в ней изложены фундаментальные принципы усвоения новых знаний. Эта книга будет актуальна и через тысячи лет.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/povarnin_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/povarnin.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/povarnin_reading_books_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/povarnin_reading_books.jpg)
@@ -33,13 +33,18 @@
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_calculus_2.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_problems_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kiselev_problems.jpg)
 
-
 ## Подготовка к поступлению в институт
 
-Неоценимую помощь при подготовке к поступлению окажет «[Краткое пособие по математике для поступающих в Московский университет](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное под руководством **М. К. Потапова**. Необходимо указать также, что в пособии для каждого рассматриваемого раздела имеется исчерпывающий список рекомендованной дополнительной литературы.
+Неоценимую помощь при подготовке к поступлению окажет «[Краткое пособие по математике для поступающих в Московский университет](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное под руководством **Михаила Константиновича Потапова**. Необходимо указать также, что в пособии для каждого рассматриваемого раздела имеется исчерпывающий список рекомендованной дополнительной литературы.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_rozov_dorofeev_math_mgu_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_rozov_dorofeev_math_mgu.jpg)
+
+Большую пользу при систематизации школьного курса принесут учебник **Марка Ивановича Сканави** «[Элементарная математика](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/skanavi_math.7z)» и задачник «[Сборник конкурсных задач по математике для поступающих во втузы](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/skanavi_problems.7z)», к котрому имеется решебник в двух частях ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/skanavi_solutions_1.7z), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/skanavi_solutions_2.7z)).
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_math_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_math.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_problems_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_problems.jpg)
 
 ## Высшая математика
 
@@ -51,13 +56,6 @@
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/yaglom_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/yaglom.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/zeldovich_yaglom_math_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/zeldovich_yaglom_math.jpg)
 
-Классический задачник **Бориса Павловича Демидовича** «[Задачи и упражнения по математическому анализу](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/demidovich_calculus.7z)» прекрасно подойдет для закрепления курса высшей математики.
-
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich.jpg)
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus.jpg)
-
-## Дополнительная литература
-
 Замечательные учебники известнейшего математика и педагога **Григория Михайловича Фихтенгольца** «Основы математического анализа» ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.001), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.002), [часть 3](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_calculus.7z.003)) и «Математика для инженеров» ([часть 1](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_eng.7z.001), [часть 2](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_eng.7z.002), [часть 3](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/fiсhtenholz_eng.7z.003)) также заслуживают самой высокой оценки. Его книги отличаются живым языком и доступностью материала при сохранении высокой строгости изложения, а также большим количеством примеров применения математического аппарата при решении физических и инженерных задач.
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz.jpg)
@@ -66,6 +64,11 @@
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_1.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/fiсhtenholz_eng_2.jpg)
+
+Классический задачник **Бориса Павловича Демидовича** «[Задачи и упражнения по математическому анализу](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/demidovich_calculus.7z)» прекрасно подойдет для закрепления курса высшей математики.
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/demidovich_calculus.jpg)
 
 И в завершение своей подборки хотелось бы отметить «[Курс высшей математики](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/shipachev_math.7z)» **Виктора Семёновича Шипачёва**, поскольку автор удивительно простым языком умеет описывать довольно сложные понятия. Я бы рекомендовал данный учебник тем, кому высшая математика пока даётся сложновато. Кроме того, будет полезен и авторский «[Задачник по высшей математике](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/shipachev_problems.7z)».
 
