@@ -51,7 +51,7 @@
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_math_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_math.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_problems_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/skanavi_problems.jpg)
 
-## Высшая математика
+## Математический анализ
 
 Монументальный труд великих советских учёных **Якова Борисовича Зельдовича** и **Исаака Моисеевича Яглома** «[Высшая математика для начинающих физиков и техников](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/zeldovich_yaglom_math.7z)».
 
