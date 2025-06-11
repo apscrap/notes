@@ -2,6 +2,7 @@
 
 [![Screenshot](../../../data/tags/win7/tag_win7.png)](../../../data/tags/win7)
 [![Screenshot](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
+[![Screenshot](../../../data/tags/techpriest/tag_techpriest.png)](../../../data/tags/techpriest)
 -----
 В последнее время цены на качественные SSD-диски улетели куда-то в далёкий космос, поэтому как никогда остро встаёт вопрос сохранения их ресурса.
 
