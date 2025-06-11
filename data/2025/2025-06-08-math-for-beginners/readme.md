@@ -79,3 +79,17 @@
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/shipachev_math_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/shipachev_math.jpg)
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/shipachev_problems_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/shipachev_problems.jpg)
+
+## Линейная алгебра
+
+Учебники **Александра Петровича Крищенко** и **Анатолия Николаевича Канатникова** «[Аналитическая геометрия](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/krishenko_analytic.7z)» и «[Линейная алгебра](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/krishenko_linear.7z)» хорошо подходят для начального изучения предмета, поскольку в них системно и подробно изложена вся необходимая информация.
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/krishenko_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/krishenko_mini.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kanatnikov_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/kanatnikov_mini.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/krishenko_analytic_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/krishenko_analytic.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/krishenko_linear_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/krishenko_linear.jpg)
+
+Фундаментальный учебник **Израиля Моисеевича Гельфанда** «[Лекции по линейной алгебре](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/files/gelfand_linear.7z)», на мой взгляд, чрезвычайно правильно расставляет акценты, позволяющие раскрыть сущность линейной алгебры — трансформации. Конечно, эта замечательная книга не подходит для первичного ознакомления с предметом, но переоценить важность и красоту заложенных в неё мыслей невозможно.
+
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/gelfand_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/gelfand.jpg)
+[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/gelfand_linear_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-08-math-for-beginners/pic/gelfand_linear.jpg)
