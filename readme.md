@@ -7,9 +7,12 @@
 [![Screenshot](data/tags/education/tag_education.png)](data/tags/education)
 [![Screenshot](data/tags/med/tag_med.png)](data/tags/med)
 [![Screenshot](data/tags/life/tag_life.png)](data/tags/life)
+[![Screenshot](data/tags/techpriest/tag_techpriest.png)](data/tags/techpriest)
 ----
 
 `2025`
+
+&emsp;  &emsp; `2025-06-10` &emsp; [Как сохранять файлы с гитхаба](data/2025/2025-06-11-how-to-download-files) 
 
 &emsp;  &emsp; `2025-06-10` &emsp; [Как сохранить зрение при чтении с экрана](data/2025/2025-06-10-pdf-readers) 
 
