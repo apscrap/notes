@@ -19,7 +19,7 @@
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_1.png)](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_1.png)
 
-Во-вторых, можно нажать кнопку `...` чуть выше и правее, и в контекстном меню выбрать пункт `Download`, что эквивалентно нажатью комбинации клавиш `Ctrl + Shift + S`:
+Во-вторых, можно нажать кнопку `...` чуть выше и правее, и в контекстном меню выбрать пункт `Download`, что эквивалентно нажатию комбинации клавиш `Ctrl + Shift + S`:
 
 [![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_2.png)](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_2.png)
 
