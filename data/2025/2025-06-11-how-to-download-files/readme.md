@@ -9,18 +9,18 @@
 
 Тем не менее, иметь навыки взаимодействия с гитхабом всё же полезно иметь вне зависимости от причастности. И сейчас мы рассмотрим самый важный из них — умение скачивать файлы прямо из репозитория.
 
-Тренироваться будем на замечательной книге **Авенира Ивановича Уёмова** «[Логические ошибки. Как они мешают правильно мыслить](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/files/uemov_logical_errors.7z)». Если навести курсор на ссылку, браузер покажет правильный адрес расположения файла, но попытка скачать его, нажав правую кнопку мыши на ссылке и выбрав опцию `Сохранить как...`  приведет к неожиданному результату: файл скачается, будет иметь правильное расширение, например, `7z` в случае архивированного файла, но по факту будет представлять из себя html-страницу с кучей технического javascript-кода. Почему так сделано? Остаётся только догадываться.
+Тренироваться будем на замечательной книге **Авенира Ивановича Уёмова** «[Логические ошибки. Как они мешают правильно мыслить](../../../../../../data-01/blob/main/2025-06-11-how-to-download-files/files/uemov_logical_errors.7z)». Если навести курсор на ссылку, браузер покажет правильный адрес расположения файла, но попытка скачать его, нажав правую кнопку мыши на ссылке и выбрав опцию `Сохранить как...`  приведет к неожиданному результату: файл скачается, будет иметь правильное расширение, например, `7z` в случае архивированного файла, но по факту будет представлять из себя html-страницу с кучей технического javascript-кода. Почему так сделано? Остаётся только догадываться.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/uemov_logical_errors_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/uemov_logical_errors.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-11-how-to-download-files/pic/uemov_logical_errors_mini.jpg)](../../../../../../data-01/blob/main/2025-06-11-how-to-download-files/pic/uemov_logical_errors.jpg)
 
 Как же правильно скачать файл книги c помощью веб-интерфейса? Нужно именно **перейти** по ссылке левой кнопкой мыши, после чего нам откроется два варианта развития событий.
 
 Во-первых, можно нажать на кнопку сохранения `Download raw file` в правом блоке просмотра содержимого:
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_1.png)](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_1.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_1.png)](../../../../../../data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_1.png)
 
 Во-вторых, можно нажать кнопку `...` чуть выше и правее, и в контекстном меню выбрать пункт `Download`, что эквивалентно нажатию комбинации клавиш `Ctrl + Shift + S`:
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_2.png)](https://github.com/apscrap/data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_2.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_2.png)](../../../../../../data-01/blob/main/2025-06-11-how-to-download-files/pic/github_download_2.png)
 
 И всего делов.
