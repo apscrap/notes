@@ -72,6 +72,8 @@
 
 Легкий, быстрый и всеядный [STDU Viewer](http://www.stdutility.com/stduviewer.html) работает только под виндой, но делает это хорошо.
 
+Portable-версию **STDU Viewer 1.6.375** можно скачать с [зеркала](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/files/stdu_viewer_1.6.375_portable.7z).
+
 [![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1.jpg)
 
 Настройка цвета доступна в меню `View` -> `Setting`, где регулятором `Brightness` можно сделать подложку серой. Забавно, что при включении опции `Invert colors` для снижения яркости цвета текста на чёрном фоне регулятор `Brightness` нужно двигать вправо.
