@@ -12,9 +12,9 @@
 
 Общие шаги, которые обычно предпринимает каждый опытный пользователь:
 
-**1.** Применение специальных утилит для настройки SSD, таких как [SSD Mini Tweaker](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/ssd_mini_tweaker_2.5.7z).
+**1.** Применение специальных утилит для настройки SSD, таких как [SSD Mini Tweaker](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/ssd_mini_tweaker_2.5.7z).
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/ssd_mini_tweaker_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/ssd_mini_tweaker.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/ssd_mini_tweaker_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/ssd_mini_tweaker.png)
 
 **2.** Отключение файла подкачки в операционной системе:
 
@@ -45,14 +45,14 @@
 
 ## AMD Radeon RAMDisk 
 
-**[AMD Radeon RAMDisk 4.4.0.36](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/amd_radeon_ramdisk_4.4.0.rc36.7z)** — утилита, позволяющая создавать RAM-диск объёмом до `4 Гб`, чего с запасом хватит для папки временных файлов операционной системы и сохранения файлов из интернетов.
+**[AMD Radeon RAMDisk 4.4.0.36](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/amd_radeon_ramdisk_4.4.0.rc36.7z)** — утилита, позволяющая создавать RAM-диск объёмом до `4 Гб`, чего с запасом хватит для папки временных файлов операционной системы и сохранения файлов из интернетов.
 
 К сожалению, с официального сайта AMD убрали ссылку на скачивание данной программы, но она всё еще доступна в сети. 
 > [!CAUTION]
 > При скачивании файла из альтернативных источников проверяйте оригинальную цифровую подпись и контрольную сумму `SHA-256` установочного файла `Radeon_RAMDisk_4_4_0_RC36.msi`: `D792733F0EBC8C30D7F6778C9F0276CD5FBDE7419212D0B338744B0311D38970`.
 
 > [!TIP]
-> Вычислить контрольную сумму `SHA-256` можно, например, открыв файл в hex-редакторе [HxD](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/hxd_2.5.0.7z) ([сайт программы](https://mh-nexus.de/en/hxd/)), через меню `Analysis` -> `Checksums` -> `SHA-256`.
+> Вычислить контрольную сумму `SHA-256` можно, например, открыв файл в hex-редакторе [HxD](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/hxd_2.5.0.7z) ([сайт программы](https://mh-nexus.de/en/hxd/)), через меню `Analysis` -> `Checksums` -> `SHA-256`.
 
 Особенно удобно, что утилита умеет создавать RAM-диск во время загрузки системы, и остаётся только прописать нужный путь к папке `TEMP` в переменную `PATH`:
 
@@ -60,23 +60,23 @@
 
 Для работы RAM-диска потребуется **однократно** создать на одном из физических дисков специальный файл с расширением `.img`, который будет служить прообразом для нашего нового RAM-диска. При этом на вкладке `Load/Save` нужно отключить опцию `Save Disk Image At Shutdown`, а также на вкладке `Options` включить опцию `Do not create backup file when saving disk image`.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_settings_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_settings.png)
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_load_save_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_load_save.png)
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_options_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_options.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_settings_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_settings.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_load_save_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_load_save.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_options_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/amd_ram_disk_options.png)
 
 ## Miray RAM Drive 
 
-**[Miray RAM Drive 1.3.5](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/mrd_ram_drive_1.3.5.7z)** — утилита, позволяющая создавать RAM-диск объёмом до `8 Гб`, но в бесплатной редакции не позволяющая создавать диск автоматически при загрузке ОС. [Страница программы](https://www.miray-software.com/download/miray-ram-drive.html) на сайте разработчика.
+**[Miray RAM Drive 1.3.5](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/mrd_ram_drive_1.3.5.7z)** — утилита, позволяющая создавать RAM-диск объёмом до `8 Гб`, но в бесплатной редакции не позволяющая создавать диск автоматически при загрузке ОС. [Страница программы](https://www.miray-software.com/download/miray-ram-drive.html) на сайте разработчика.
 > [!CAUTION]
 > При скачивании файла из альтернативных источников проверяйте оригинальную цифровую подпись и контрольную сумму `SHA-256` установочного файла `MRD.1.3.5.en.Setup.exe`: `04AC0C5E7CA9A877E04652C639D2476617572E534664CA33BFF7F25F45E9CE5B`.
 
 Использование программы совсем несложное: при запуске появится окно выбора требуемого объёма RAM-диска, после чего он появится в системе под какой-то буквой, например `H:`.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/miray_ram_drive_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/miray_ram_drive.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/miray_ram_drive_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/miray_ram_drive.png)
 
 ## Дополнительные мероприятия
 
-Если проанализировать с помощью утилит типа [Process Hacker](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/process_hacker_2.39.7z) обращения некоторых программ к дискам, можно зафиксировать крайне неприятный факт: многие из них непрерывно что-то записывают в соответствующие пользовательские папки в `%APPDATA%`. И это не какие-то крохи, но десятки, а иногда даже сотни мегабайт в час. Например, этим с удовольствием занимается браузер **Firefox**.
+Если проанализировать с помощью утилит типа [Process Hacker](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/process_hacker_2.39.7z) обращения некоторых программ к дискам, можно зафиксировать крайне неприятный факт: многие из них непрерывно что-то записывают в соответствующие пользовательские папки в `%APPDATA%`. И это не какие-то крохи, но десятки, а иногда даже сотни мегабайт в час. Например, этим с удовольствием занимается браузер **Firefox**.
 
 При достаточном уровне самодисциплины можно применить следующий подход:
 
@@ -102,7 +102,7 @@
 
 Проверяем схему на работоспособность: браузер теперь взаимодействует с пользовательской папкой `R:\firefox_user\` на RAM-диске.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/disk_write_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/pic/disk_write.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/disk_write_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/disk_write.png)
 
 Конечно, про самодисциплину я завёл разговор неспроста: теперь все изменения в профиле действуют только в рамках текущего состояния папки пользователя на RAM-диске, поэтому все новые закладки, расширения и настройки пропадут. И тут можно либо раз в неделю обновлять состояние профиля по ранее указанной схеме, фиксируя напоминания о необходимых изменениях в специально отведённом текстовом документике, либо одно из двух. Мой опыт показывает, что это значительно менее сложно, чем может показаться на первый взгляд, и просто требует формирования привычки.
 
@@ -110,6 +110,6 @@
 
 ## Полезные утилиты
 
-[Victoria 5.37](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/victoria_5.37.7z) — самая известная утилита диагностики HDD и SSD ([сайт программы](https://hdd.by/victoria/)).
+[Victoria 5.37](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/victoria_5.37.7z) — самая известная утилита диагностики HDD и SSD ([сайт программы](https://hdd.by/victoria/)).
 
-[CrystalDiskInfo 9.5.0](https://github.com/apscrap/data-01/blob/main/2025-06-07-ram-disk/files/crystal_disk_info_9.5.0.7z) — полезная программа мониторинга и анализа работы SSD ([сайт программы](https://crystalmark.info/en/download/)).
+[CrystalDiskInfo 9.5.0](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/crystal_disk_info_9.5.0.7z) — полезная программа мониторинга и анализа работы SSD ([сайт программы](https://crystalmark.info/en/download/)).
