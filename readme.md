@@ -8,6 +8,7 @@
 [![Screenshot](data/tags/med/tag_med.png)](data/tags/med)
 [![Screenshot](data/tags/life/tag_life.png)](data/tags/life)
 [![Screenshot](data/tags/techpriest/tag_techpriest.png)](data/tags/techpriest)
+[![Screenshot](data/tags/cook/tag_cook.png)](data/tags/cook)
 ----
 
 `2025`
