@@ -19,4 +19,4 @@
 - [x] походный романтизьм
 - [x] жызнь без бороды
 
-P.S. Ежели что, пишите письма в [спортлото](https://github.com/apscrap/data-01/blob/main/2025-06-06-new-life/pic/mail.png).
+P.S. Ежели что, пишите письма в [спортлото](../../../../../../data-01/blob/main/2025-06-06-new-life/pic/mail.png).
