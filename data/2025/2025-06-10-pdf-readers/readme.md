@@ -19,11 +19,11 @@
 
 Светлый текст `#C0C0C0` на чёрном фоне `#000000`:
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark.png)
 
 Чёрный текст `#000000` на светлом фоне `#C0C0C0`:
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/console_light_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/console_light.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_light_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_light.png)
 
 Для чтения литературы в форматах `pdf`, `djvu` и `fb2` я хотел бы порекомендовать несколько прекрасных программ, в которых настройка комфортного режима не занимает много времени и сил, а пользоваться ими удобно и приятно, в отличие от множества популярных «читалок» от **Acrobat Reader** до **WinDjView**, где вообще не поддерживается гибкая настройка цветовых решений.
 
@@ -35,20 +35,20 @@
 
 В стандартном варианте мы увидим типичную картину при открытии pdf-файла — белый фон и чёрный текст.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1.jpg)
 
 Но достаточно лишь зайти в меню `Настройка` -> `Настроить Okular` и в блоке `Специальные возможности` выбрать цветовой режим, а также привязанные к нему цвета.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings.jpg)
 
 А после этого в меню `Настройка` -> `Панели инструментов` добавить кнопку переключения цветового режима на тулбар.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar.jpg)
 
 И станет возможным переключение режима в один клик, что очень удобно. Если же у документа есть какая-то текстурная подложка, она будет представлена в оттенках серого. На скриншотах этот переключатель находится справа на тулбаре.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2.jpg)
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3.jpg)
 
 Из дополнительных возможностей может имеется режим управления потреблением оперативной памяти, что может быть полезно при работе с очень большими документами.
 
@@ -58,16 +58,16 @@
 
 Легкий, быстрый и всеядный [STDU Viewer](http://www.stdutility.com/stduviewer.html) работает только под виндой, но делает это хорошо.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1.jpg)
 
 Настройка цвета доступна в меню `View` -> `Setting`, где регулятором `Brightness` можно сделать подложку серой. Забавно, что при включении опции `Invert colors` для снижения яркости цвета текста на чёрном фоне регулятор `Brightness` нужно двигать вправо.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings.jpg)
 
 С форматом `fb2` программа работает идеально.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2.jpg)
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2_mini.jpg)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2.jpg)
 
 ## ReadEra
 
@@ -75,7 +75,7 @@
 
 На мой взгляд, лучше программы для чтения документов под ведроидом, чем великолепная [ReadEra](https://readera.org/ru), попросту нет. В комплекте скорость работы, всеядность, продуманный интерфейс и удобная регулировка яркости.
 
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark.png)
-[![Screenshot](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings_mini.png)](https://github.com/apscrap/data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings.png)
 
 Берегите зрение, друзья!
