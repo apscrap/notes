@@ -43,6 +43,12 @@
 
 ## Подготовка к поступлению в институт
 
+В достаточно полной мере методика решения задач по школьной математике представлена в справочных пособиях цикла «Задачи по математике» ([Алгебра](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/files/vavilov_problems_algebra.7z), [Уравнения и неравенства](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/files/vavilov_problems_inequalities.7z), [Начала анализа](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/files/vavilov_problems_calculus.7z)), составленных на основе курса подготовительного отделения МГУ группой авторов: **В. В. Вавиловым**, **И. И. Мельниковым**, **С. Н. Олехником**, **П. И. Пасиченко**.
+
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/vavilov_problems_algebra_mini.jpg)](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/vavilov_problems_algebra.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/vavilov_problems_inequalities_mini.jpg)](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/vavilov_problems_inequalities.jpg)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/vavilov_problems_calculus_mini.jpg)](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/vavilov_problems_calculus.jpg)
+
 Неоценимую помощь при подготовке к поступлению окажет «[Краткое пособие по математике для поступающих в Московский университет](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/files/potapov_rozov_dorofeev_math_mgu.7z)», подготовленное под руководством **Михаила Константиновича Потапова**. Необходимо указать также, что в пособии для каждого рассматриваемого раздела имеется исчерпывающий список рекомендованной дополнительной литературы.
 
 [![Screenshot](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov_mini.jpg)](../../../../../../data-01/blob/main/2025-06-08-math-for-beginners/pic/potapov.jpg)
