@@ -77,6 +77,20 @@
 
 [![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/miray_ram_drive_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/miray_ram_drive.png)
 
+## SoftPerfect RAM Disk
+
+**[SoftPerfect RAM Disk 3.4.8](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/softperfect_ram_disk_3.4.8.7z)** — бесплатная утилита, не имеющая ограничений ни по объёму создаваемых дисков, ни по дополнительному функционалу: умеет запускаться при старте системы, создавать на диске нужные папки, менять папку временных файлов винды прямо из интерфейса. Препарат выбора в нашей подборке.
+
+Жадные разрабы сделали программу платной, начиная с [версии 4.0](https://www.softperfect.com/products/changelog.php?product_id=6), поэтому пользуемся последней бесплатной версией 3.4.8.
+
+> [!CAUTION]
+> При скачивании файла из альтернативных источников проверяйте оригинальную цифровую подпись и контрольную сумму `SHA-256` установочного файла **softperfect_ram_disk_3.4.8.exe**: `28A600CDDAB749AE406B64257C3D6FD50F7E56408C9EC9F9DA0088DB82FEBF1C`.
+
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/softperfect_ramdisk_main.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/softperfect_ramdisk_main.png)
+
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/softperfect_ramdisk_add_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/softperfect_ramdisk_add.png)
+[![Screenshot](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/softperfect_ramdisk_settings_mini.png)](../../../../../../data-01/blob/main/2025-06-07-ram-disk/pic/softperfect_ramdisk_settings.png)
+
 ## Дополнительные мероприятия
 
 Если проанализировать с помощью утилит типа [Process Hacker](../../../../../../data-01/blob/main/2025-06-07-ram-disk/files/process_hacker_2.39.7z) обращения некоторых программ к дискам, можно зафиксировать крайне неприятный факт: многие из них непрерывно что-то записывают в соответствующие пользовательские папки в `%APPDATA%`. И это не какие-то крохи, но десятки, а иногда даже сотни мегабайт в час. Например, этим с удовольствием занимается браузер **Firefox**.
