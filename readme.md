@@ -9,9 +9,12 @@
 [![Screenshot](data/tags/life/tag_life.png)](data/tags/life)
 [![Screenshot](data/tags/techpriest/tag_techpriest.png)](data/tags/techpriest)
 [![Screenshot](data/tags/cook/tag_cook.png)](data/tags/cook)
+[![Screenshot](data/tags/elephants/tag_elephants.png)](data/tags/elephants)
 ----
 
 `2025`
+
+&emsp;  &emsp; `2025-06-20` &emsp; [Раздача слонов, выпуск 1](data/2025/2025-06-20-elephants-001) 
 
 &emsp;  &emsp; `2025-06-11` &emsp; [Как сохранять файлы с гитхаба](data/2025/2025-06-11-how-to-download-files) 
 
