@@ -14,7 +14,7 @@
 
 `2025`
 
-&emsp;  &emsp; `2025-06-20` &emsp; [Раздача слонов, выпуск 1](data/2025/2025-06-20-elephants-001) <sub>DeepSeek, Octave, Scilab, RAM Disk, Jitsi</sub>
+&emsp;  &emsp; `2025-06-20` &emsp; [Раздача слонов \#1](data/2025/2025-06-20-elephants-001)
 
 &emsp;  &emsp; `2025-06-11` &emsp; [Как сохранять файлы с гитхаба](data/2025/2025-06-11-how-to-download-files) 
 
