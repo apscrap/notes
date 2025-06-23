@@ -1,6 +1,5 @@
 # Раздача слонов, выпуск 1
 
-[![image](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
 [![image](../../../data/tags/elephants/tag_elephants.png)](../../../data/tags/elephants)
 
 -----
