@@ -1,4 +1,4 @@
-# Раздача слонов, выпуск 1
+# Раздача слонов \#1
 
 [![image](../../../data/tags/elephants/tag_elephants.png)](../../../data/tags/elephants)
 
