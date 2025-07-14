@@ -1,4 +1,4 @@
-# Раздача слонов \#1
+# Раздача слонов \#1: DeepSeek, Octave, Jitsi Meet
 
 [![image](../../../data/tags/elephants/tag_elephants.png)](../../../data/tags/elephants)
 -----
