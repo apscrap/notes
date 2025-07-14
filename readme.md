@@ -10,9 +10,12 @@
 [![Screenshot](data/tags/techpriest/tag_techpriest.png)](data/tags/techpriest)
 [![Screenshot](data/tags/cook/tag_cook.png)](data/tags/cook)
 [![Screenshot](data/tags/elephants/tag_elephants.png)](data/tags/elephants)
+[![Screenshot](data/tags/cpp/tag_cpp.png)](data/tags/cpp)
 ----
 
 `2025`
+
+&emsp;  &emsp; `2025-07-14` &emsp; [Ссылки на материалы по программированию](data/2025/2025-07-14-programming-links)
 
 &emsp;  &emsp; `2025-06-20` &emsp; [Раздача слонов \#1](data/2025/2025-06-20-elephants-001)
 
