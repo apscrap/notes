@@ -4,4 +4,4 @@
 
 `2025`
 
-&emsp;  &emsp; `2025-06-20` &emsp; [Раздача слонов \#1](../../../data/2025/2025-06-20-elephants-001)
+&emsp;  &emsp; `2025-06-20` &emsp; [Раздача слонов \#1: DeepSeek, Octave, Jitsi Meet](../../../data/2025/2025-06-20-elephants-001)
