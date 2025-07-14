@@ -37,6 +37,9 @@
 ## Эмуляция и виртуализация
 
 [qemu.org](https://www.qemu.org/) — мощный консольный эмулятор `QEMU`, работающий с разными архитектурами и совместимый с отладчиком GDB.
+
 [pdp-11.org.ru](https://pdp-11.org.ru/) — эмулятор `PDP-11`.
+
 [dosbox.com](https://www.dosbox.com/) — эмулятор `MS-DOS`.
+
 [virtualbox.org](https://www.virtualbox.org/) —  средство создания виртуальных машин `VirtualBox`.
