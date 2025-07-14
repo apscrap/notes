@@ -26,16 +26,16 @@
 
 [algorithmica.org](https://ru.algorithmica.org/) — авторский проект **Сергея Слотина**, посвященный алгоритмам и структурам данных.
 
-[cs.usfca.edu/~galles/visualization](https://www.cs.usfca.edu/~galles/visualization/) — проект по визуализации работы алгоритмов и структур данных.
+[cs.usfca.edu/~galles/visualization](https://www.cs.usfca.edu/~galles/visualization/) — визуализация работы алгоритмов и структур данных.
 
-[visualgo.net](https://visualgo.net/en) — проект по визуализации работы алгоритмов и структур данных.
+[visualgo.net](https://visualgo.net/en) — визуализация работы алгоритмов и структур данных.
 
-[algorithm-visualizer.org](https://algorithm-visualizer.org/) — проект по визуализации работы алгоритмов и структур данных.
+[algorithm-visualizer.org](https://algorithm-visualizer.org/) — визуализация работы алгоритмов и структур данных.
 <br><br>
 
 ## Компьютерные сети
 
-[linkmeup.ru/blog/1188](https://linkmeup.ru/blog/1188/) — цикл статей проекта «**Сети для самых маленьких**». Вопреки названию, материал в них совсем не детский. Считается одним из лучших учебником по компьютерным сетям.
+[linkmeup.ru/blog/1188](https://linkmeup.ru/blog/1188/) — цикл статей «**Сети для самых маленьких**». Вопреки названию, материал в них совсем не детский. Считается одним из лучших учебником по компьютерным сетям.
 <br><br>
 
 ## Эмуляция и виртуализация
