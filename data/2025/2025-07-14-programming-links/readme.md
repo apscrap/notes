@@ -2,7 +2,6 @@
 
 [![image](../../../data/tags/education/tag_education.png)](../../../data/tags/education)
 [![image](../../../data/tags/cpp/tag_cpp.png)](../../../data/tags/cpp)
-
 -----
 
 Коллекция полезных ссылок будет дополняться на регулярной основе.
