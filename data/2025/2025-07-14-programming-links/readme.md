@@ -9,7 +9,11 @@
 
 ## C++
 
-[cppreference.com](https://en.cppreference.com/w/) — основной и наиболее авторитетный справочник по актуальному состоянию языка. Если есть какие-то сомнения относительно внутренней кухни, то тут либо в стандарт, либо сюда. Разобраться в нём без пол-литры, конечно, не выйдет, но альтернатив-то особо и нет.
+[github.com/gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) — зеркало исходников компилятора [**GCC**](https://gcc.gnu.org/), в том числе: [парсер и семантический анализатор](https://github.com/gcc-mirror/gcc/tree/master/gcc/cp), [общая часть C и C++](https://github.com/gcc-mirror/gcc/tree/master/gcc/c-family), [стандартная библиотека](https://github.com/gcc-mirror/gcc/tree/master/libstdc++-v3) (например, [stl_vector.h](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/stl_vector.h) и [vector.tcc](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/vector.tcc)).
+
+[open-std.org](https://open-std.org/) — черновики стандартов: [C++11](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf), [C++14](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4296.pdf), [C++17](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf), [C++20](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/n4861.pdf).
+
+[cppreference.com](https://en.cppreference.com/w/) — наиболее авторитетный неофициальный справочник по актуальному состоянию языка. Если есть какие-то сомнения относительно внутренней кухни, то тут либо в стандарт, либо сюда. Разобраться в нём без пол-литры, конечно, не выйдет, но альтернатив особо и нет.
 
 [compiler-explorer](https://compiler-explorer.com/), он же [godbolt.org](https://godbolt.org/) — онлайн-дизассемблер, поддерживающий всевозможные версии платформ и компиляторов различных языков.
 
