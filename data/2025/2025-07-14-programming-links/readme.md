@@ -51,6 +51,12 @@
 
 ## Отладчики
 
+[sourceware.org/gdb/](https://www.sourceware.org/gdb/) — штатный отладчик **gdb** под Linux/Windows (gcc/mingw).
+
 [x64dbg.com](https://x64dbg.com/) — мощнейший отладчик **x64dbg** под Windows.
 
 [github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — кроссплатформенный пакет для реверс-инжиниринга **Ghidra**, разработанный АНБ США.
+
+[cheatengine.org](https://www.cheatengine.org/) — утилита **Cheat Engine** для исследования программ под Windows через оперативную память.
+
+[github.com/scanmem/scanmem](https://github.com/scanmem/scanmem) — консольная утилита **scanmem** и её GUI-надстройка **Game Conqueror** для исследования программ под Linux через оперативную память.
