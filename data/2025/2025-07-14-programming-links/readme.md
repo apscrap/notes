@@ -47,3 +47,10 @@
 [dosbox.com](https://www.dosbox.com/) — эмулятор **MS-DOS**.
 
 [virtualbox.org](https://www.virtualbox.org/) —  средство создания виртуальных машин **VirtualBox**.
+<br><br>
+
+## Отладчики
+
+[x64dbg.com](https://x64dbg.com/) — мощнейший отладчик **x64dbg** под Windows.
+
+[github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — кроссплатформенный пакет для реверс-инжиниринга **Ghidra**, разработанный АНБ США.
