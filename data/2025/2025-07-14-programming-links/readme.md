@@ -40,7 +40,7 @@
 
 ## Эмуляция и виртуализация
 
-[qemu.org](https://www.qemu.org/) — мощный консольный эмулятор **QEMU**, работающий с разными архитектурами и совместимый с отладчиком GDB.
+[qemu.org](https://www.qemu.org/) — консольный эмулятор **QEMU**, работающий с разными архитектурами и совместимый с отладчиком GDB.
 
 [pdp-11.org.ru](https://pdp-11.org.ru/) — эмулятор **PDP-11**.
 
@@ -51,9 +51,9 @@
 
 ## Отладчики
 
-[sourceware.org/gdb/](https://www.sourceware.org/gdb/) — штатный отладчик **gdb** под Linux/Windows (gcc/mingw).
+[sourceware.org/gdb/](https://www.sourceware.org/gdb/) — отладчик **gdb** под Linux/Windows (gcc/mingw).
 
-[x64dbg.com](https://x64dbg.com/) — мощнейший отладчик **x64dbg** под Windows.
+[x64dbg.com](https://x64dbg.com/) — отладчик **x64dbg** под Windows.
 
 [github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — кроссплатформенный пакет для реверс-инжиниринга **Ghidra**, разработанный АНБ США.
 
