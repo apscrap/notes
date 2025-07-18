@@ -22,6 +22,32 @@
 [quick-bench.com](https://quick-bench.com/) — онлайн-профилировщик, сравнивающий производительность двух функций.
 <br><br>
 
+## Компиляторы
+
+[gcc.gnu.org](https://gcc.gnu.org/) — компилятор **GCC** под Linux.
+
+[mingw-w64.org](https://www.mingw-w64.org/) — компилятор **Mingw-w64** под Windows ([собранные релизы](https://github.com/niXman/mingw-builds-binaries)).
+
+[jmeubank.github.io/tdm-gcc](https://jmeubank.github.io/tdm-gcc/) — компилятор **TDM-GCC** под Windows, компилирующий в том числе 32-разрядные программы (Mingw этого не умеет).
+<br><br>
+
+## IDE и редакторы
+
+[geany.org](https://geany.org/) — минималистичная кроссплатформенная среда разработки **Geany**.
+
+[github.com/Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp) — среда разработки **Dev-C++** под Windows.
+
+[codeblocks.org](https://www.codeblocks.org/) — среда разработки **Code::Blocks** под Windows.
+
+[vim.org](https://www.vim.org/) — кроссплатформенный текстовый редактор **Vim**.
+
+[gnu.org/software/emacs](https://www.gnu.org/software/emacs/) — кроссплатформенный текстовый редактор **Emacs**.
+
+[github.com/notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) — текстовый редактор **Notepad++** под Windows (рекомендую [версию 7.6](https://download.notepad-plus-plus.org/repository/7.x/7.6/)).
+
+[mh-nexus.de/en/hxd](https://mh-nexus.de/en/hxd/) — hex-редактор **HxD** под Windows.
+<br><br>
+
 ## Алгоритмы и структуры данных
 
 [algorithmica.org](https://ru.algorithmica.org/) — авторский проект **Сергея Слотина**, посвященный алгоритмам и структурам данных.
