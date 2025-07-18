@@ -1,16 +1,16 @@
 # log.txt > /dev/null
 
-[![Screenshot](data/tags/win7/tag_win7.png)](data/tags/win7)
-[![Screenshot](data/tags/linux/tag_linux.png)](data/tags/linux)
-[![Screenshot](data/tags/math/tag_math.png)](data/tags/math)
-[![Screenshot](data/tags/good/tag_good.png)](data/tags/good)
-[![Screenshot](data/tags/education/tag_education.png)](data/tags/education)
-[![Screenshot](data/tags/med/tag_med.png)](data/tags/med)
-[![Screenshot](data/tags/life/tag_life.png)](data/tags/life)
-[![Screenshot](data/tags/techpriest/tag_techpriest.png)](data/tags/techpriest)
-[![Screenshot](data/tags/cook/tag_cook.png)](data/tags/cook)
-[![Screenshot](data/tags/elephants/tag_elephants.png)](data/tags/elephants)
-[![Screenshot](data/tags/cpp/tag_cpp.png)](data/tags/cpp)
+[![image](data/tags/win7/tag_win7.png)](data/tags/win7)
+[![image](data/tags/linux/tag_linux.png)](data/tags/linux)
+[![image](data/tags/math/tag_math.png)](data/tags/math)
+[![image](data/tags/good/tag_good.png)](data/tags/good)
+[![image](data/tags/education/tag_education.png)](data/tags/education)
+[![image](data/tags/med/tag_med.png)](data/tags/med)
+[![image](data/tags/life/tag_life.png)](data/tags/life)
+[![image](data/tags/techpriest/tag_techpriest.png)](data/tags/techpriest)
+[![image](data/tags/cook/tag_cook.png)](data/tags/cook)
+[![image](data/tags/elephants/tag_elephants.png)](data/tags/elephants)
+[![image](data/tags/cpp/tag_cpp.png)](data/tags/cpp)
 ----
 
 `2025`
