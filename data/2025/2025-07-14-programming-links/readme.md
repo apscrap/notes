@@ -7,6 +7,11 @@
 Коллекция полезных ссылок будет дополняться на регулярной основе.
 <br><br>
 
+## Нейросети
+
+[chat.deepseek.com](https://chat.deepseek.com/) — единственная заслуживающая внимания бесплатная нейросеть **DeepSeek**. Вопросов будет много, и в 99% случаев она справится лучше, чем гугл: подскажет, поправит, проанализирует код (можно засылать все файлы проекта скопом), посоветует литературу, даст ссылки на пункты стандартов. В среде дедов-красноглазиков пользователи нейросеток приравниваются к электросамокатчикам, но при этом сами деды на помощь что-то как-то не спешат.
+<br><br>
+
 ## C++
 
 [github.com/gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) — зеркало исходников компилятора [**GCC**](https://gcc.gnu.org/), в том числе: [парсер и семантический анализатор](https://github.com/gcc-mirror/gcc/tree/master/gcc/cp), [общая часть C и C++](https://github.com/gcc-mirror/gcc/tree/master/gcc/c-family), [стандартная библиотека](https://github.com/gcc-mirror/gcc/tree/master/libstdc++-v3) (например, [stl_vector.h](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/stl_vector.h) и [vector.tcc](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/vector.tcc)).
@@ -52,9 +57,9 @@
 
 [algorithmica.org](https://ru.algorithmica.org/) — авторский проект **Сергея Слотина**, посвященный алгоритмам и структурам данных.
 
-[cs.usfca.edu/~galles/visualization](https://www.cs.usfca.edu/~galles/visualization/) — визуализация работы алгоритмов и структур данных.
-
 [visualgo.net](https://visualgo.net/en) — визуализация работы алгоритмов и структур данных.
+
+[cs.usfca.edu/~galles/visualization](https://www.cs.usfca.edu/~galles/visualization/) — визуализация работы алгоритмов и структур данных.
 
 [algorithm-visualizer.org](https://algorithm-visualizer.org/) — визуализация работы алгоритмов и структур данных.
 <br><br>
@@ -66,13 +71,13 @@
 
 ## Эмуляция и виртуализация
 
-[qemu.org](https://www.qemu.org/) — консольный эмулятор **QEMU**, работающий с разными архитектурами и совместимый с отладчиком GDB.
+[virtualbox.org](https://www.virtualbox.org/) —  средство создания виртуальных машин **VirtualBox**.
 
-[pdp-11.org.ru](https://pdp-11.org.ru/) — эмулятор **PDP-11**.
+[qemu.org](https://www.qemu.org/) — консольный эмулятор **QEMU**, работающий с разными архитектурами и совместимый с отладчиком GDB.
 
 [dosbox.com](https://www.dosbox.com/) — эмулятор **MS-DOS**.
 
-[virtualbox.org](https://www.virtualbox.org/) —  средство создания виртуальных машин **VirtualBox**.
+[pdp-11.org.ru](https://pdp-11.org.ru/) — эмулятор **PDP-11**.
 <br><br>
 
 ## Отладчики
