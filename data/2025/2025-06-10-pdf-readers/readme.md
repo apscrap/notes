@@ -1,10 +1,10 @@
 # Как сохранить зрение при чтении с экрана
 
-[![Screenshot](../../../data/tags/win7/tag_win7.png)](../../../data/tags/win7)
-[![Screenshot](../../../data/tags/linux/tag_linux.png)](../../../data/tags/linux)
-[![Screenshot](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
-[![Screenshot](../../../data/tags/education/tag_education.png)](../../../data/tags/education)
-[![Screenshot](../../../data/tags/med/tag_med.png)](../../../data/tags/med)
+[![image](../../../data/tags/win7/tag_win7.png)](../../../data/tags/win7)
+[![image](../../../data/tags/linux/tag_linux.png)](../../../data/tags/linux)
+[![image](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
+[![image](../../../data/tags/education/tag_education.png)](../../../data/tags/education)
+[![image](../../../data/tags/med/tag_med.png)](../../../data/tags/med)
 -----
 
 При необходимости ежедневного чтения книг и документов с экрана монитора и телефона совершенно естественным образом начинаешь задумываться о сохранении зрения. Безответственное отношение к своему здоровью рано или поздно приводит к неутешительному выводу: или ты становишься на путь сохранения того немногого, что осталось, или окончательно становишься инвалидом. А инвалидом по зрению лучше не становиться — это основной канал получения информации об окружающей действительности.
@@ -19,11 +19,11 @@
 
 Светлый текст `#C0C0C0` на чёрном фоне `#000000`:
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark.png)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_dark.png)
 
 Чёрный текст `#000000` на светлом фоне `#C0C0C0`:
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_light_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_light.png)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_light_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/console_light.png)
 
 Для чтения литературы в форматах `pdf`, `djvu` и `fb2` я хотел бы порекомендовать несколько прекрасных программ, в которых настройка комфортного режима не занимает много времени и сил, а пользоваться ими удобно и приятно, в отличие от множества популярных «читалок» от **Acrobat Reader** до **WinDjView**, где вообще не поддерживается гибкая настройка цветовых решений.
 
@@ -51,20 +51,20 @@
 
 В стандартном варианте мы увидим типичную картину при открытии pdf-файла — белый фон и чёрный текст.
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_1.jpg)
 
 Но достаточно лишь зайти в меню `Настройка` -> `Настроить Okular` и в блоке `Специальные возможности` выбрать цветовой режим, а также привязанные к нему цвета.
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_settings.png)
 
 А после этого в меню `Настройка` -> `Панели инструментов` добавить кнопку переключения цветового режима на тулбар.
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_toolbar.png)
 
 И станет возможным переключение режима в один клик, что очень удобно. Если же у документа есть какая-то текстурная подложка, она будет представлена в оттенках серого. На скриншотах этот переключатель находится справа на тулбаре.
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2.jpg)
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_2.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/okular_3.jpg)
 
 Из дополнительных возможностей может имеется режим управления потреблением оперативной памяти, что может быть полезно при работе с очень большими документами.
 
@@ -76,16 +76,16 @@
 
 Portable-версию **STDU Viewer 1.6.375** можно скачать с [зеркала](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/files/stdu_viewer_1.6.375_portable.7z).
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_1.jpg)
 
 Настройка цвета доступна в меню `View` -> `Setting`, где регулятором `Brightness` можно сделать подложку серой. Забавно, что при включении опции `Invert colors` для снижения яркости цвета текста на чёрном фоне регулятор `Brightness` нужно двигать вправо.
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_settings.jpg)
 
 С форматом `fb2` программа работает идеально.
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2.jpg)
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_2.jpg)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2_mini.jpg)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/stdu_fb2.jpg)
 
 ## ReadEra
 
@@ -93,7 +93,7 @@ Portable-версию **STDU Viewer 1.6.375** можно скачать с [зе
 
 На мой взгляд, лучше программы для чтения документов под ведроидом, чем великолепная [ReadEra](https://readera.org/ru), попросту нет. В комплекте скорость работы, всеядность, продуманный интерфейс и удобная регулировка яркости.
 
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark.png)
-[![Screenshot](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings.png)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_dark.png)
+[![image](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings_mini.png)](../../../../../../data-01/blob/main/2025-06-10-pdf-readers/pic/readera_settings.png)
 
 Берегите зрение, друзья!
