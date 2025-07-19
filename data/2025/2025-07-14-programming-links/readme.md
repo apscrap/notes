@@ -34,7 +34,7 @@
 
 [jmeubank.github.io/tdm-gcc](https://jmeubank.github.io/tdm-gcc/) — компилятор **TDM-GCC** под Windows, компилирующий в том числе 32-разрядные программы (Mingw этого не умеет).
 
-[github.com/gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) — зеркало исходников компилятора [**GCC**](https://gcc.gnu.org/), в том числе: [парсер и семантический анализатор](https://github.com/gcc-mirror/gcc/tree/master/gcc/cp), [общая часть C и C++](https://github.com/gcc-mirror/gcc/tree/master/gcc/c-family), [стандартная библиотека](https://github.com/gcc-mirror/gcc/tree/master/libstdc++-v3) (например, [stl_vector.h](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/stl_vector.h) и [vector.tcc](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/vector.tcc)).
+[github.com/gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) — зеркало исходников компилятора [GCC](https://gcc.gnu.org/), в том числе: [парсер и семантический анализатор](https://github.com/gcc-mirror/gcc/tree/master/gcc/cp), [общая часть C и C++](https://github.com/gcc-mirror/gcc/tree/master/gcc/c-family), [стандартная библиотека](https://github.com/gcc-mirror/gcc/tree/master/libstdc++-v3) (например, [stl_vector.h](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/stl_vector.h) и [vector.tcc](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/vector.tcc)).
 
 [openwatcom.org](http://www.openwatcom.org/) — компилятор **Open Watcom** для ценителей ретрокодинга (ограниченная поддержка C++98).
 <br><br>
