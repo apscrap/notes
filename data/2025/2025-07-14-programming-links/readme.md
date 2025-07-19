@@ -58,6 +58,30 @@
 [mh-nexus.de/en/hxd](https://mh-nexus.de/en/hxd/) — классный hex-редактор **HxD** под винду. Написан на ассемблере. С душой и огоньком.
 <br><br>
 
+## Отладчики
+
+[sourceware.org/gdb/](https://www.sourceware.org/gdb/) — отладчик **gdb** под Linux/Windows (gcc/mingw).
+
+[x64dbg.com](https://x64dbg.com/) — отладчик **x64dbg** под Windows.
+
+[github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — кроссплатформенный пакет для реверс-инжиниринга **Ghidra**, разработанный АНБ США.
+
+[cheatengine.org](https://www.cheatengine.org/) — утилита **Cheat Engine** для исследования программ под Windows через оперативную память.
+
+[github.com/scanmem/scanmem](https://github.com/scanmem/scanmem) — консольная утилита **scanmem** и её GUI-надстройка **Game Conqueror** для исследования программ под Linux через оперативную память.
+<br><br>
+
+## Эмуляция и виртуализация
+
+[virtualbox.org](https://www.virtualbox.org/) —  средство создания виртуальных машин **VirtualBox**. Прекрасная виртуалка. Потребует определенного времени для вкуривания настроек, коих при кажущейся простоте на самом деле немало, но в остальном работа с ви-боксом вообще ни разу не доставила мне никаких проблем. Последняя работающая под семёркой версия: [5.2.44-139111](https://download.virtualbox.org/virtualbox/5.2.44/). Очень рекомендую начать освоение как можно быстрее — сейчас я уже и мыслить не могу в категориях жизни без ви-бокса. Стоит ли свеч возня с [VMware Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) взамест — вопрос открытый. На мой взгляд, нет.
+
+[qemu.org](https://www.qemu.org/) — консольный эмулятор **QEMU**, работающий с разными архитектурами и совместимый с отладчиком GDB.
+
+[dosbox.com](https://www.dosbox.com/) — эмулятор **MS-DOS**.
+
+[pdp-11.org.ru](https://pdp-11.org.ru/) — эмулятор **PDP-11**.
+<br><br>
+
 ## Алгоритмы и структуры данных
 
 [algorithmica.org](https://ru.algorithmica.org/) — авторский проект **Сергея Слотина**, посвященный алгоритмам и структурам данных.
@@ -73,29 +97,6 @@
 
 [linkmeup.ru/blog/1188](https://linkmeup.ru/blog/1188/) — цикл статей «**Сети для самых маленьких**». Вопреки названию, материал в них совсем не детский. Заслуженно считается одним из лучших свободных учебников по компьютерным сетям.
 <br><br>
-
-## Эмуляция и виртуализация
-
-[virtualbox.org](https://www.virtualbox.org/) —  средство создания виртуальных машин **VirtualBox**. Прекрасная виртуалка. Потребует определенного времени для вкуривания настроек, коих при кажущейся простоте на самом деле немало, но в остальном работа с ви-боксом вообще ни разу не доставила мне никаких проблем. Последняя работающая под семёркой версия: [5.2.44-139111](https://download.virtualbox.org/virtualbox/5.2.44/). Очень рекомендую начать освоение как можно быстрее — сейчас я уже и мыслить не могу в категориях жизни без ви-бокса. Стоит ли свеч возня с [VMware Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) взамест — вопрос открытый. На мой взгляд, нет.
-
-[qemu.org](https://www.qemu.org/) — консольный эмулятор **QEMU**, работающий с разными архитектурами и совместимый с отладчиком GDB.
-
-[dosbox.com](https://www.dosbox.com/) — эмулятор **MS-DOS**.
-
-[pdp-11.org.ru](https://pdp-11.org.ru/) — эмулятор **PDP-11**.
-<br><br>
-
-## Отладчики
-
-[sourceware.org/gdb/](https://www.sourceware.org/gdb/) — отладчик **gdb** под Linux/Windows (gcc/mingw).
-
-[x64dbg.com](https://x64dbg.com/) — отладчик **x64dbg** под Windows.
-
-[github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — кроссплатформенный пакет для реверс-инжиниринга **Ghidra**, разработанный АНБ США.
-
-[cheatengine.org](https://www.cheatengine.org/) — утилита **Cheat Engine** для исследования программ под Windows через оперативную память.
-
-[github.com/scanmem/scanmem](https://github.com/scanmem/scanmem) — консольная утилита **scanmem** и её GUI-надстройка **Game Conqueror** для исследования программ под Linux через оперативную память.
 
 ## Нейросети
 
