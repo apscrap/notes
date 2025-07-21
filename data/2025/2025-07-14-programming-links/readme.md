@@ -106,7 +106,7 @@
 
 [winmerge.org](https://winmerge.org/) — программа **WinMerge** для сравнения содержимого файлов под винду (рекомендую версию 2.16.42.1).
 
-[angusj.com/resourcehacker](http://www.angusj.com/resourcehacker/) — редактор ресурсов **Resource Hacker** исполняемых файлов и библиотек под винду (рекомендую версию 3.6.0.92).
+[angusj.com/resourcehacker](http://www.angusj.com/resourcehacker/) — редактор ресурсов **Resource Hacker** для исполняемых файлов и библиотек под винду (рекомендую версию 3.6.0.92).
 
 [logicnet.dk/DiagramDesigner](https://logicnet.dk/DiagramDesigner/) — редактор разного рода диаграмм и схем **Diagram Designer** под винду (рекомендую версию 1.30). Поможет быстро набросать UML-диаграмму или блок-схему.
 <br><br>
