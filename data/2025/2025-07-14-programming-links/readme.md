@@ -55,7 +55,9 @@
 
 [github.com/notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) — самый лучший текстовый редактор **Notepad++** под винду (рекомендую [версию 7.6](https://download.notepad-plus-plus.org/repository/7.x/7.6/)). Ничего даже близко сопоставимого по удобству и мощи среди классических редакторов просто не существует.
 
-[mh-nexus.de/en/hxd](https://mh-nexus.de/en/hxd/) — классный hex-редактор **HxD** под винду. Написан на ассемблере. С душой и огоньком.
+[mh-nexus.de/en/hxd](https://mh-nexus.de/en/hxd/) — hex-редактор **HxD** под винду, написанный на ассемблере.
+
+[sourceforge.net/projects/frhed](https://sourceforge.net/projects/frhed/) — старенький, но ещё популярный hex-редактор **Frhed** под винду.
 <br><br>
 
 ## Отладчики
@@ -70,7 +72,11 @@
 
 [github.com/scanmem/scanmem](https://github.com/scanmem/scanmem) — консольная утилита **scanmem** и её GUI-надстройка **Game Conqueror** для исследования программ под Linux через оперативную память.
 
-[github.com/AlexanderBagel/ProcessMemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap) — утилита **ProcessMemoryMap** для просмотра карты памяти процесса ([сайт автора](https://rouse.drkb.ru/)).
+[github.com/AlexanderBagel/ProcessMemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap) — утилита **ProcessMemoryMap** под винду для просмотра карты памяти процесса ([сайт автора](https://rouse.drkb.ru/)).
+
+[systeminformer.sourceforge.io](https://systeminformer.sourceforge.io/) — утилита **System Informer** (бывший **Process Hacker**) под винду для гибкого мониторинга работы процессов.
+
+[ntcore.com/explorer-suite](https://ntcore.com/explorer-suite/) — утилита **Explorer Suite** под винду для анализа исполняемых файлов.
 <br><br>
 
 ## Эмуляция и виртуализация
