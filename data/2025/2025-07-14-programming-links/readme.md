@@ -108,7 +108,7 @@
 
 [angusj.com/resourcehacker](http://www.angusj.com/resourcehacker/) — редактор ресурсов **Resource Hacker** для исполняемых файлов и библиотек под винду (рекомендую версию 3.6.0.92).
 
-[logicnet.dk/DiagramDesigner](https://logicnet.dk/DiagramDesigner/) — редактор разного рода диаграмм и схем **Diagram Designer** под винду (рекомендую версию 1.30). Поможет быстро набросать UML-диаграмму или блок-схему.
+[logicnet.dk/DiagramDesigner](https://logicnet.dk/DiagramDesigner/) — редактор разного рода диаграмм и схем **Diagram Designer** под винду (рекомендую версию 1.30). Поможет быстро набросать UML-диаграмму или блок-схему. [Дополнительные библиотеки](https://github.com/meesoft/DiagramDesigner/tree/master/TemplatePalettes) элементов нужно размещать в корневой папке программы (понимает только ANSI-символы в именах файлов, а то там какой-то француз решил блеснуть патриотизмом).
 <br><br>
 
 ## Нейросети
