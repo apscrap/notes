@@ -15,6 +15,8 @@
 
 `2025`
 
+&emsp;  &emsp; `2025-11-10` &emsp; [Как я пилил мод на Тень Чернобыля](data/2025/2025-11-10-stalker-soc)
+
 &emsp;  &emsp; `2025-07-14` &emsp; [Ссылки для изучающих программирование](data/2025/2025-07-14-programming-links)
 
 &emsp;  &emsp; `2025-06-20` &emsp; [Раздача слонов \#1: DeepSeek, Octave, Jitsi Meet](data/2025/2025-06-20-elephants-001)
