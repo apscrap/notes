@@ -11,6 +11,7 @@
 [![image](data/tags/cook/tag_cook.png)](data/tags/cook)
 [![image](data/tags/elephants/tag_elephants.png)](data/tags/elephants)
 [![image](data/tags/cpp/tag_cpp.png)](data/tags/cpp)
+[![image](data/tags/games/tag_games.png)](data/tags/games)
 ----
 
 `2025`
