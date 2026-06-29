@@ -1,16 +1,15 @@
 # Советское наследие: математика
 
-[![Screenshot](../../../data/tags/math/tag_math.png)](../../../data/tags/math)
-[![Screenshot](../../../data/tags/education/tag_education.png)](../../../data/tags/education)
-[![Screenshot](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
+[![](../../../data/tags/math/tag_math.png)](../../../data/tags/math)
+[![](../../../data/tags/education/tag_education.png)](../../../data/tags/education)
+[![](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
 -----
+
+![](logo.jpg)
 
 > [!NOTE]
 > Прежде чем с головой окунуться в чтение книг, ознакомьтесь с [небольшим обзором](../../2025/2025-06-10-pdf-readers) на программы-читалки, которые помогут сделать процесс комфортным и безопасным для зрения.
 > 
-> Берегите глаза, друзья!
-
-> [!NOTE]
 > Тут много ссылок для скачивания файлов. Если вы не умеете работать с гитхабом, вам поможет [специальный гайд](../../2025/2025-06-11-how-to-download-files).
 >
 > Из-за ограничений гитхаба на размер единичного файла часть книг упакована в многотомные архивы с помощью архиватора `7-Zip`. Свежую версию можно найти на [официальном сайте](https://www.7-zip.org/download.html) или в [репозитории разработчика](https://github.com/ip7z/7zip/releases).
