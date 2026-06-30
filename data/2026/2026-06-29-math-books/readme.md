@@ -2,7 +2,6 @@
 
 [![](../../../data/tags/math/tag_math.png)](../../../data/tags/math)
 [![](../../../data/tags/education/tag_education.png)](../../../data/tags/education)
-[![](../../../data/tags/good/tag_good.png)](../../../data/tags/good)
 -----
 
 ![](logo.jpg)
@@ -20,5 +19,5 @@
 
 ## Советская литература по математике
 
-[Зельдович, Яглом - Высшая математика для начинающих физиков и техников (1982)](../../../../../../math-01/blob/main/zeldovich_yaglom_1982.7z)
+[[скачать]](../../../../../../math-01/blob/main/zeldovich_yaglom_1982.7z) Зельдович Я. Б., Яглом И. М. *Высшая математика для начинающих физиков и техников*. М.: Наука, 1982. 512 с.
 
